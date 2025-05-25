@@ -12,14 +12,14 @@
 
   ⠀⠀⠀⠀ ⠀ ⠀![](https://64.media.tumblr.com/de438039e955295f3051780dacc696b8/tumblr_inline_n37t5s4mMC1qhwjx8.gif)
 <h2 dir="auto"></h2>
-Back-end:  
+# Back-end:  
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,c#)](https://skillicons.dev)
 - Java, Kotlin, C#.  
 <h2 dir="auto"></h2>
-Programming tools:  
+# Programming tools:  
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio)](https://skillicons.dev)
 - Android Studio, Intellij, Visual Studio.  
 <h2 dir="auto"></h2>
-Game Engine:  
+# Game Engine:  
   [![My Skills](https://skillicons.dev/icons?i=unity,)](https://skillicons.dev)
 - Construct 3, Unity.  
