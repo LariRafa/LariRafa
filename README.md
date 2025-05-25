@@ -14,13 +14,12 @@
 <h2 dir="auto"></h2>
 Back-end:  
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,c#)](https://skillicons.dev)
-- Java, Kotlin, C#.
+- Java, Kotlin, C#.  
 <h2 dir="auto"></h2>
 Programming tools:  
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio)](https://skillicons.dev)
-<h2 dir="auto"></h2>
-- Android Studio, Intellij, Visual Studio.
+- Android Studio, Intellij, Visual Studio.  
 <h2 dir="auto"></h2>
 Game Engine:  
 [![My Skills](https://skillicons.dev/icons?i=unity,)](https://skillicons.dev)
-- Construct 3, Unity.
+- Construct 3, Unity.  
