@@ -9,7 +9,7 @@
 ![](https://64.media.tumblr.com/7561c36ccaadaf7198b0beee0f0e8bed/2b95d08a98f89800-40/s75x75_c1/6b73107cb989a3e61ea5d27b93400e7da0906a18.gifv)i'm in my third year of high school;
 
 ![](https://64.media.tumblr.com/d7cc500f7cbc5787c68da4ce4a722b00/2b95d08a98f89800-22/s75x75_c1/d5d708bdb70e12b10f83ddef58f77a63e34fac7a.gifv) i finished a 2-year course in game programming
-
+come see a little more at [Linkedin](https://www.linkedin.com/in/larirafa/)
   ⠀⠀⠀⠀ ⠀ ⠀![](https://64.media.tumblr.com/de438039e955295f3051780dacc696b8/tumblr_inline_n37t5s4mMC1qhwjx8.gif)
 # Back-end:  
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)](https://skillicons.dev)
