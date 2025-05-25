@@ -11,3 +11,8 @@
 ![](https://64.media.tumblr.com/d7cc500f7cbc5787c68da4ce4a722b00/2b95d08a98f89800-22/s75x75_c1/d5d708bdb70e12b10f83ddef58f77a63e34fac7a.gifv) i finished a 2-year course in game programming
 
   ⠀⠀⠀⠀ ⠀ ⠀![](https://64.media.tumblr.com/de438039e955295f3051780dacc696b8/tumblr_inline_n37t5s4mMC1qhwjx8.gif)
+
+Programming tools:
+My Skills
+
+Android Studio, Intellij, Visual Studio Code, Visual Studio.
