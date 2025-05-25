@@ -13,6 +13,6 @@
   ⠀⠀⠀⠀ ⠀ ⠀![](https://64.media.tumblr.com/de438039e955295f3051780dacc696b8/tumblr_inline_n37t5s4mMC1qhwjx8.gif)
 
 Programming tools:  
-[![My Skills](https://skillicons.dev/icons?i=AndroidStudio,Intellij,VisualStudioCode,VisualStudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,vs)](https://skillicons.dev)
 
 -Android Studio, Intellij, Visual Studio Code, Visual Studio.
