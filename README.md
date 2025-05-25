@@ -10,7 +10,7 @@
 
 ![](https://64.media.tumblr.com/d7cc500f7cbc5787c68da4ce4a722b00/2b95d08a98f89800-22/s75x75_c1/d5d708bdb70e12b10f83ddef58f77a63e34fac7a.gifv) i finished a 2-year course in game programming; 
 
-![](https://64.media.tumblr.com/7f30e32a1a7397b67947dc16c9311956/s75x75o64crv5xUz1u5sy0wo3_400.gifv) come see a little more at [Linkedin](https://www.linkedin.com/in/larirafa/).
+![](https://media1.tenor.com/s75x75_c1/m/yuGj1hQZm0QAAAAC/keropi-frog.gif) come see a little more at [Linkedin](https://www.linkedin.com/in/larirafa/).
   ⠀⠀⠀⠀ ⠀ ⠀![](https://64.media.tumblr.com/de438039e955295f3051780dacc696b8/tumblr_inline_n37t5s4mMC1qhwjx8.gif)
 # Back-end:  
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)](https://skillicons.dev)
