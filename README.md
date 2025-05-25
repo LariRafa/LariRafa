@@ -11,16 +11,16 @@
 ![](https://64.media.tumblr.com/d7cc500f7cbc5787c68da4ce4a722b00/2b95d08a98f89800-22/s75x75_c1/d5d708bdb70e12b10f83ddef58f77a63e34fac7a.gifv) i finished a 2-year course in game programming
 
   ⠀⠀⠀⠀ ⠀ ⠀![](https://64.media.tumblr.com/de438039e955295f3051780dacc696b8/tumblr_inline_n37t5s4mMC1qhwjx8.gif)
-
+<h2 dir="auto"></h2>
 Back-end:  
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,c#)](https://skillicons.dev)
 - Java, Kotlin, C#.
-
+<h2 dir="auto"></h2>
 Programming tools:  
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,visualstudio)](https://skillicons.dev)
-
+<h2 dir="auto"></h2>
 - Android Studio, Intellij, Visual Studio.
-
+<h2 dir="auto"></h2>
 Game Engine:  
 [![My Skills](https://skillicons.dev/icons?i=unity,)](https://skillicons.dev)
 - Construct 3, Unity.
