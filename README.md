@@ -15,4 +15,4 @@
 Programming tools:  
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio)](https://skillicons.dev)
 
--Android Studio, Intellij, Visual Studio Code, Visual Studio.
+- Android Studio, Intellij, Visual Studio Code, Visual Studio.
